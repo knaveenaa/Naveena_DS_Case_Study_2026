@@ -1,0 +1,13 @@
+# Core Libraries
+numpy
+pandas
+matplotlib
+seaborn
+pickle
+
+# Machine Learning
+scikit-learn
+catboost
+
+# Additional Utilities
+warnings
